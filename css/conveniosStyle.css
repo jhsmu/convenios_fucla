@@ -1,0 +1,46 @@
+img{
+    width: 90px;
+}
+.espacio{
+    margin-top: 15px;
+}
+
+.descarga a{
+    position: relative;
+    bottom: 40px;
+    left: 15px;
+}
+.descarga  .btn{
+    background: #FFC001;
+    color: #fff;
+}
+#boton{
+    background: #FFC001;
+    color: #fff;
+}
+.valor{
+    position: relative;
+}
+.separador {
+    height: 1px;
+    background-color: #FFC001;
+    margin: 10px 0;
+  }
+  .separador-vertical {
+    width: 101px;
+    height: 5px;
+    background-color: #FFC001;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    transform-origin: top left;
+    transform: rotate(-90deg);
+    border: 1px solid #FFC001;
+  }
+  .centro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+  }
+  
